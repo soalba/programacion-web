@@ -13,5 +13,11 @@ p{
 #tabla{
     top:3;
     position: static; 
-    background-color: lightgreen;
+    background-color: rgba(144, 238, 144, 0.736);
+}
+
+#p-especial{
+    top: 3;
+    position: static;
+    background-color: antiquewhite;
 }
