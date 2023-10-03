@@ -24,7 +24,9 @@ body{background-color: white(223, 233, 225);}
     height: 20px; /* Ajusta la altura según el espacio que desees */
 }
 
-
+#footer{
+    text-align: center;
+}
 #p-especial{
     top: 3;
     text-align: justify;
