@@ -94,7 +94,7 @@ body{background-color: white(223, 233, 225);}
     font-size: 8vw;
     }   
 
-/* Extra small devices (phones, 600px and down) */
+
 @media only screen and (max-width: 600px) {
     .catalogo{
         display:block;
@@ -103,4 +103,6 @@ body{background-color: white(223, 233, 225);}
 }
 
 
-
+.container { 
+    margin-top: 50px; 
+}
