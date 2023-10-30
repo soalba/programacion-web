@@ -118,6 +118,7 @@ function finalizarCompra() {
       alert("El carrito está vacío");
       return; // Salir de la función sin continuar con la finalización de la compra
     }
+    
       
     // Mostrar un mensaje al usuario
     alert("Su compra se ha realizado con éxito.");
