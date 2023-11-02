@@ -399,3 +399,39 @@ body{background-color: white(223, 233, 225);}
   #Carrito {
     padding: 30px !important;
   }
+
+  .container-fluid {
+    background-color: green;
+    position: sticky;
+  }
+  
+  .navbar-brand {
+    border-radius: 1vw;
+    padding: 0;
+    margin: 0;
+  }
+  
+  .navbar-brand a:hover {
+    background-color: green;
+    color: #fff;
+  }
+  
+  .navbar-toggler {
+    border-radius: 1vw;
+  }
+  
+  .nav-item {
+    border-radius: 1vw;
+  }
+  
+  .nav-link {
+    border-radius: 1vw;
+  }
+  
+  .nav-item a:hover {
+    background-color:green;
+    color: #fff;
+  }
+  #padding-nav {
+    padding: 0 !important;
+  }
